@@ -13,3 +13,7 @@ Once done you should be able to find the visual studio code under the accessorie
 - buy the small screen on amazon
 https://docs.smart-mirror.io
 https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/
+
+
+# Port Forwarding
+https://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/
